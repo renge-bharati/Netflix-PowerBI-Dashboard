@@ -31,8 +31,7 @@ This Power BI dashboard analyzes Netflix content to uncover insights related to 
 Netflix Titles Dataset
 
 ## Dashboard Preview
-
-(Add dashboard screenshot here)
+(dashboard_screenshot.png)
 
 ## Author
 
